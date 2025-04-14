@@ -1,0 +1,4 @@
+.
+I love working on DSA, JavaScript, and Python projects.
+Currently, I'm exploring GitHub, improving my coding skills, and learning through CodeHelp and LeetCode.
+I'm also a part of the Wisflux ILP program to expand my tech knowledge.
