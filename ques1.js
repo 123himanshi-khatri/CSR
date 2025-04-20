@@ -16,6 +16,7 @@ const prompt=ps(); //now we have prompt function
 let a=parseFloat(prompt("enter 1st side of triangle"));
 let b=parseFloat(prompt("enter 2nd side of triangle"));
 let c=parseFloat(prompt("enter 3rd side of triangle"));
+// this is new comment
 
 
 let s= 0.5*(a+b+c);
